@@ -14,5 +14,9 @@ Extracts posterior samples from h5py, resamples using jacobian and creates csv. 
 ### [hyperparameter_tests:](Notebooks/hyperparameter_tests.ipynb)
 Plots hyperparameters posterior distributions against prior for various models. Relies on csv created in hier_numpyro
 
+### [posterior_samples:](Notebooks/posterior_samples.ipynb)
+Plots posterior samples on ellipticity in various spaces, used for initial analysis and sanity checks
+
 ### [simulated_data:](Notebooks/simulated_data.ipynb)
 Simulates hanford and livingston detection data from a pulsar-sourced gravitational wave.
+
