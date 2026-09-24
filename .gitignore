@@ -1,0 +1,4 @@
+data/pulsar_posteriors/
+*.csv
+jacobians.ipynb
+.venv
